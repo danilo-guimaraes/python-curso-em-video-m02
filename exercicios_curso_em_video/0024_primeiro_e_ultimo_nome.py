@@ -14,4 +14,3 @@ ultimo = nome[-1]
 
 # Exibe o resultado usando f-string para inserir as variáveis dentro do texto
 print(f'Seu primeiro nome é ({primeiro}) e o seu último sobrenome é ({ultimo})')
-###
