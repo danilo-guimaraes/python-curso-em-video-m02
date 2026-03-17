@@ -1,34 +1,33 @@
-# 🐍 Desafios de Python: Mundo 1 (Fundamentos)
+# 🐍 Desafios de Python: Mundo 2 (Estruturas de Controle)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
   <img src="https://img.shields.io/badge/Estácio-ADS-blue?style=for-the-badge" alt="Estácio ADS Badge">
-  <img src="https://img.shields.io/badge/Mundo-1%20Concluído-blueviolet?style=for-the-badge" alt="Mundo 1">
+  <img src="https://img.shields.io/badge/Mundo-2%20Concluído-blueviolet?style=for-the-badge" alt="Mundo 2">
 </div>
 
 <br>
 
 ## 📝 Sobre este Repositório
-Este projeto reúne os meus primeiros passos na programação com **Python**. Aqui estão resolvidos os 23 primeiros desafios do Mundo 1 do Curso em Vídeo, focados em lógica e conceitos fundamentais. Este esforço faz parte da minha formação em **Análise e Desenvolvimento de Sistemas** na **Estácio**.
+Este repositório registra a minha evolução técnica no **Mundo 2** do Python. Aqui, os desafios subiram de nível, saindo da lógica linear para a **tomada de decisão** e **automação de repetições**. Este projeto é um marco na minha graduação de **ADS na Estácio**, consolidando a base necessária para engenharia de software e IA.
 
-## 🚀 O que eu aprendi no Mundo 1:
-Até o exercício 023, já dominei os seguintes tópicos:
-* ✅ Configuração de ambiente (PyCharm + Git).
-* ✅ Tratamento de dados e tipos primitivos.
-* ✅ Operações aritméticas e módulos do Python.
-* ✅ Manipulação de textos (Strings).
-* ✅ Primeiras estruturas de controle e lógica.
+## 🚀 O que eu dominei no Mundo 2:
+Até o exercício 071, concluí com sucesso:
+* ✅ **Condições Aninhadas:** Estruturas complexas de decisão (`if`, `elif`, `else`).
+* ✅ **Estruturas de Repetição:** Domínio total de laços `for` e `while`.
+* ✅ **Interrupções de Fluxo:** Uso estratégico de `break`, `continue` e flags.
+* ✅ **Lógica de Algoritmos:** Criação de simuladores (Caixa Eletrônico, Jogo Par ou Ímpar, Análise de Dados).
 
 ## 📊 Status do Portfólio
-- **Exercícios realizados:** 23
-- **Fase atual:** Finalizando Fundamentos (Mundo 1)
-- **Próximo objetivo:** Estruturas de Controle (Mundo 2)
+- **Exercícios realizados:** 71 (Acúmulo M1 + M2)
+- **Fase atual:** Estruturas Compostas (Mundo 3)
+- **Foco de Carreira:** Desenvolvedor Python / IA Engineer 🇺🇸
 
 ## 👤 Autor
 **Danilo Guimarães**
 * 🎓 Estudante de ADS - Estácio.
-* 📍 Campo Grande, Rio de Janeiro.
-* 💻 Máquina de Desenvolvimento: 128GB RAM / PyCharm.
+* 👨‍👩‍👧‍👦 Foco: Construindo o futuro para Gael, Maria e Alice.
+* 💻 Stack: PyCharm Pro / Git / Python 3.
 
 ---
 <div align="center">
